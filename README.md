@@ -6,18 +6,18 @@
 |---|---:|---|
 | 边缘计算机套件：Nvidia Orin NX | 1 | [查看详细介绍](#detail-orin-nx) |
 | RGB-D 深度相机：RealSense D455 | 1 | [查看详细介绍](#detail-d455) |
-| 飞控：NxtPX4 | 2 | [查看详细介绍](#detail-nxtpx4) |
-| 电调：45A（当前使用，型号待补充） | 2 | [查看详细介绍](#detail-esc-45a) |
-| 电调：HobbyWing 65A（不再使用） | 2 | [查看详细介绍](#detail-esc) |
-| 电机：OddityRC 2006 2150KV 四个装 | 2 | [查看详细介绍](#detail-motor) |
-| 螺旋桨：GEMFAN D90s-3 四个装 | 3 | [查看详细介绍](#detail-propeller) |
-| 电池：1400mAh 6S | 6 | [查看详细介绍](#detail-battery) |
+| 飞控：NxtPX4 | 1 | [查看详细介绍](#detail-nxtpx4) |
+| 电调：45A（当前使用，型号待补充） | 1 | [查看详细介绍](#detail-esc-45a) |
+| 电调：HobbyWing 65A（不再使用） | 1 | [查看详细介绍](#detail-esc) |
+| 电机：OddityRC 2006 2150KV 四个装 | 1 | [查看详细介绍](#detail-motor) |
+| 螺旋桨：GEMFAN D90s-3 四个装 | 1 | [查看详细介绍](#detail-propeller) |
+| 电池：1400mAh 6S | 1 | [查看详细介绍](#detail-battery) |
 | 电池防撞护垫 | 1 | [查看详细介绍](#detail-battery-protector) |
-| 电池绑带：凯夫拉 20×280mm 防滑扎带 | 4 | [查看详细介绍](#detail-battery-strap) |
-| 桨叶保护罩：OddityRC XI35 Pro | 2 | [查看详细介绍](#detail-prop-guard) |
-| 接收器：瑞速 | 2 | [查看详细介绍](#detail-receiver) |
+| 电池绑带：凯夫拉 20×280mm 防滑扎带 | 2 | [查看详细介绍](#detail-battery-strap) |
+| 桨叶保护罩：OddityRC XI35 Pro | 1 | [查看详细介绍](#detail-prop-guard) |
+| 接收器：瑞速 | 1 | [查看详细介绍](#detail-receiver) |
 | 遥控器 | 1 | [查看详细介绍](#detail-transmitter) |
-| 电源接口：XT60 E1-M | 4 | [查看详细介绍](#detail-xt60-em) |
+| 电源接口：XT60 E1-M | 1 | [查看详细介绍](#detail-xt60-em) |
 | XT30 对（10 个装） | 1 | [查看详细介绍](#detail-xt30) |
 | 计算机电源线：18 AWG 红色，1m 长 | 4 | [查看详细介绍](#detail-power-red) |
 | 计算机电源线：18 AWG 黑色，1m 长 | 4 | [查看详细介绍](#detail-power-black) |
@@ -27,11 +27,11 @@
 | 硅胶线：28 AWG 白色，0.08平方，5m 长 | 1 | [查看详细介绍](#detail-wire-28awg-white) |
 | 硅胶线：28 AWG 红色，0.08平方，5m 长 | 1 | [查看详细介绍](#detail-wire-28awg-red) |
 | 硅胶线：28 AWG 黑色，0.08平方，5m 长 | 1 | [查看详细介绍](#detail-wire-28awg-black) |
-| 相机 Type-C 线 | 3 | [查看详细介绍](#detail-camera-cable) |
+| 相机 Type-C 线 | 1 | [查看详细介绍](#detail-camera-cable) |
 | 4 针串口线（20cm） | 4 | [查看详细介绍](#detail-uart) |
-| Type-C 调试母座（机架下板安装位） | 3 | [查看详细介绍](#detail-debug-female) |
-| Type-C 调试公头 | 3 | [查看详细介绍](#detail-debug-male) |
-| DC-DC 降压模块，输出 12V 5A | 3 | [查看详细介绍](#detail-dcdc) |
+| Type-C 调试母座（机架下板安装位） | 1 | [查看详细介绍](#detail-debug-female) |
+| Type-C 调试公头 | 1 | [查看详细介绍](#detail-debug-male) |
+| DC-DC 降压模块，输出 12V 5A | 1 | [查看详细介绍](#detail-dcdc) |
 | 936 烙铁头：黑金刚 SK 小刀型 | 1 | [查看详细介绍](#detail-solder-tip) |
 | 焊锡丝：63% 锡，1.2mm，55g/卷，含松香芯 | 1 | [查看详细介绍](#detail-solder-wire) |
 | 铝合金支柱：M3×12mm | 16 | [查看详细介绍](#detail-standoff) |
@@ -54,7 +54,7 @@
 | 热缩管：黑色，圆直径 2mm，按 2m 散卖 | 1 | [查看详细介绍](#detail-heatshrink-2mm) |
 | 螺丝胶：263 红色，高强度耐油性，50mL | 1 | [查看详细介绍](#detail-threadlocker-263) |
 | 公牛插排：B5440，3m，带过载保护 | 1 | [查看详细介绍](#detail-power-strip) |
-| 3K 东丽碳纤维板：黑色，固定翼定制加工 | 1 | [查看详细介绍](#detail-carbon-fiber) |
+| 3K 东丽碳纤维板定制加工 | 1 | [查看详细介绍](#detail-carbon-fiber) |
 | PETG 3D 打印定制件 | 6 | [查看详细介绍](#detail-petg-print) |
 | BB 响 | 2 | [查看详细介绍](#detail-buzzer) |
 | XT60 公母头（5 对） | 1 | [查看详细介绍](#detail-xt60-pair) |
@@ -370,13 +370,16 @@ Nvidia Orin NX 是无人机上的机载边缘计算平台。
 ### Type-C 调试母座（机架下板安装位）
 <a id="detail-debug-female"></a>
 
-**功能简介：** 作为可插拔的调试和烧录连接端，用于临时接入飞控或其他控制板。
+**功能简介：** 作为可插拔的调试和烧录连接端，用于临时接入飞控或其他控制板。这个东西和公头连起来以后，公头插飞控，母座放底板上，方便调试，本质是一个转接功能。母座需要导圆角。
 
 **安装方法：** 按调试接口的针脚顺序插接，确保母头与公头完全配合；调试完成后断电再拔出，并用标签标明接口方向。
 
 **参考图片：**
 
 ![Type-C 调试母座](./images/type-c母座.jpg)
+
+![Type-C 调试母座直接连接废弃数据线](./images/母座直接接一个废弃的数据线.jpg)
+![Type-C 调试母座](./images/母座直接接一个废弃的数据线.jpg)
 
 **淘宝购买链接：**
 
@@ -389,7 +392,7 @@ Nvidia Orin NX 是无人机上的机载边缘计算平台。
 ### Type-C 调试公头
 <a id="detail-debug-male"></a>
 
-**功能简介：** 与母头配合，为调试线、烧录器或外部测试设备提供插接端。
+**功能简介：** 与母头配合，为调试线、烧录器或外部测试设备提供插接端。直接用废弃数据线加上母座，所以这个type-c公头已经不重要了。
 
 **安装方法：** 焊接或插接到目标板的调试针脚上，按 1 脚标记对齐；焊点完成后检查相邻针脚无短路，调试时先确认电源电压。
 
